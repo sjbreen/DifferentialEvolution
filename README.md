@@ -1,6 +1,6 @@
 # DifferentialEvolution
 This is a Differential Evolution (DE) program written in Matlab. DE is an optimization routine that creates candidate models according to an evolutionary equation.
-It is useful for discontinuous optimization problems where gradient-based methods like Gauss-Newton will fail. The matlab script DEexample.m solves a simple sample
+It is useful for discontinuous optimization problems where gradient-based methods like Gauss-Newton can fail. The matlab script DEexample.m solves a straightforward sample
 problem based on projectile motion. It creates a projectile curve and then finds its way back to the correct acceleration, initial velocity, and initial height from random 
 starting guesses.
 
